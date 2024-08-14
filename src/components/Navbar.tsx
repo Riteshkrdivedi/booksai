@@ -33,37 +33,37 @@ const Navbar = () => {
           <div className="w-[600px] h-full  flex-row items-center xl:flex md:visible hidden    justify-between md:mr-20">
             <div className="flex items-center  justify-between w-full h-auto border border-[#7042f861] bg-[#0300145e] mr-[15px] px-[20px] py-[10px] rounded-full text-gray-200">
               <a
-                href="#home"
+                href="#Feature"
                 className="cursor-pointer hover:animate-bounce   hover:text-[#b49ee0]"
               >
                 Feature
               </a>
               <a
-                href="#projects"
+                href="#Howitworks"
                 className="cursor-pointer  hover:text-[#b49ee0] hover:animate-bounce"
               >
                 How it works
               </a>
               <a
-                href="#community"
+                href="#Roadmap"
                 className="cursor-pointer  hover:text-[#b49ee0] hover:animate-bounce"
               >
                 Roadmap
               </a>
               <a
-                href="#resoures"
+                href="#API"
                 className="cursor-pointer  hover:text-[#b49ee0] hover:animate-bounce"
               >
                 API
               </a>
               <a
-                href="#resoures"
+                href="#Price"
                 className="cursor-pointer  hover:text-[#b49ee0] hover:animate-bounce"
               >
                 Price
               </a>
               <a
-                href="#resoures"
+                href="# Models"
                 className="cursor-pointer hover:text-[#b49ee0] hover:animate-bounce"
               >
                 Models
@@ -93,7 +93,7 @@ const Navbar = () => {
             <li className="w-full list-none text-center hover:animate-bounce hover:text-purple-500 hover:bg-slate-700 rounded-3xl py-3 text-2xl">
               {" "}
               <a
-                href="#home"
+                href="#Feature"
                 className="cursor-pointer hover:animate-bounce   hover:text-[#b49ee0]"
               >
                 Feature
@@ -102,7 +102,7 @@ const Navbar = () => {
             <li className="w-full list-none text-center hover:animate-bounce hover:text-purple-500 hover:bg-slate-700 rounded-3xl py-3 text-2xl">
               {" "}
               <a
-                href="#projects"
+                href="#How it works"
                 className="cursor-pointer  hover:text-[#b49ee0] hover:animate-bounce"
               >
                 How it works
@@ -111,7 +111,7 @@ const Navbar = () => {
             <li className="w-full list-none text-center hover:animate-bounce hover:text-purple-500 hover:bg-slate-700 rounded-3xl py-3 text-2xl">
               {" "}
               <a
-                href="#community"
+                href="#Roadmap"
                 className="cursor-pointer  hover:text-[#b49ee0] hover:animate-bounce"
               >
                 Roadmap
@@ -120,7 +120,7 @@ const Navbar = () => {
             <li className="w-full list-none text-center hover:animate-bounce hover:text-purple-500 hover:bg-slate-700 rounded-3xl py-3 text-2xl">
               {" "}
               <a
-                href="#resoures"
+                href="#API"
                 className="cursor-pointer  hover:text-[#b49ee0] hover:animate-bounce"
               >
                 API
@@ -129,7 +129,7 @@ const Navbar = () => {
             <li className="w-full list-none text-center hover:animate-bounce hover:text-purple-500 hover:bg-slate-700 rounded-3xl py-3 text-2xl">
               {" "}
               <a
-                href="#resoures"
+                href="#Price"
                 className="cursor-pointer  hover:text-[#b49ee0] hover:animate-bounce"
               >
                 Price
@@ -138,7 +138,7 @@ const Navbar = () => {
             <li className="w-full list-none text-center hover:animate-bounce hover:text-purple-500 hover:bg-slate-700 rounded-3xl py-3 text-2xl">
               {" "}
               <a
-                href="#resoures"
+                href="#Models"
                 className="cursor-pointer hover:text-[#b49ee0] hover:animate-bounce"
               >
                 Models

@@ -6,7 +6,7 @@ import Button from "./Button";
 
 const HeroContent = () => {
   return (
-    <div className="w-full h-fit pt-28 border flex flex-col justify-center items-center">
+    <div className="w-full h-fit pt-28  flex flex-col justify-center items-center">
       <div className="border-black rounded-xl h-full w-4/5 bg-gradient-to-t from-[#2A0E61]/50 via-[#2A0E61]/10 to-transparent  ">
         <h2 className="text-5xl font-semibold text-center mt-10 m-3">
           API Pricing

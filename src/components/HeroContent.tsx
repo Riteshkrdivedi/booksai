@@ -13,7 +13,7 @@ const HeroContent = () => {
         </h2>
         <p className="text-center text-lg ">
           Our API pricing is based on the model used and the number of tokens
-          processed. Here's a breakdown of the costs:
+          processed. Here&apos;s a breakdown of the costs
         </p>
         <div
           className=" flex md:justify-around md:flex-row flex-col justify-center items-center
